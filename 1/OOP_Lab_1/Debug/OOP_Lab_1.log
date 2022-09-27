@@ -1,0 +1,6 @@
+﻿  Number.cpp
+D:\Winda\Робочий стіл\ОБДЗ\1\OOP_Lab_1\Number.h(11,30): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  OOP1.cpp
+D:\Winda\Робочий стіл\ОБДЗ\1\OOP_Lab_1\Number.h(11,30): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+  OOP_Lab_1.vcxproj -> D:\Winda\Робочий стіл\ОБДЗ\1\Debug\OOP_Lab_1.exe
